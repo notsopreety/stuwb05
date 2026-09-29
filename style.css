@@ -1,0 +1,59 @@
+body {
+  background-color: #121212;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color: #ffffff;
+  margin: 0;
+  padding: 40px;
+}
+
+.business-card {
+  width: 500px;
+  margin: 50px auto;
+  padding: 30px;
+  background-color: #1e1e1e;
+  border-radius: 10px;
+}
+
+#profile-name {
+  color: #1db954;
+  font-size: 28px;
+  letter-spacing: -0.5px;
+}
+
+.card-info {
+  color: #b3b3b3;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.bio {
+  line-height: 1.6;
+}
+
+h2 {
+  color: #1db954;
+  font-size: 20px;
+}
+
+.contact,
+.skills {
+  border-top: 1px solid #444444;
+  margin-top: 20px;
+  padding-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #1db954;
+}
+
+a:hover {
+  text-decoration: underline wavy;
+  color: #48dd21;
+}
+
+.toolkit {
+  border-top: 1px solid #444;
+  margin-top: 20px;
+  padding-top: 10px;
+}
